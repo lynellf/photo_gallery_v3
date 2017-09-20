@@ -22,5 +22,10 @@ searchBox.addEventListener("keyup", () => {
 
 });
 
+//Lightbox config
+
+lightbox.option({
+    'maxWidth': 600
+})
 
 
